@@ -1,6 +1,6 @@
 ## Hi there, I am Leo👋
 
-![Animasi Bochi]([https://tenor.com/bZvNT.gif](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydHFoeWtrZmk4dXJ4NzVzMWlzcW9sM2lmYmUxNXh1bWs2dnNzdnUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsVX1QDSLlCjw8PpJS/giphy.gif))
+![Animasi Bochi](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydHFoeWtrZmk4dXJ4NzVzMWlzcW9sM2lmYmUxNXh1bWs2dnNzdnUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsVX1QDSLlCjw8PpJS/giphy.gif)
 
 <!--
 **leowahata/leowahata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
