@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Leo Wahatta!
 
-![gif](https://tenor.com/id/view/bocchi-bocchi-the-rock-panic-surprised-kita-gif-26979862)
+![gif]([https://tenor.com/id/view/bocchi-bocchi-the-rock-panic-surprised-kita-gif-26979862](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2FqamJtaXJwcGtoem9sMHcwaXcxbHJrN2Y0cTlmOHgzaThkdmVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM3l14swAnId8GVBrb/giphy.gif))
 
 
 I'm passionate about **technology**, **data**, and **continuous learning**.  
