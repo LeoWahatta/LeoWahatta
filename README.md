@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Leo Wahatta!
 
-![gif](https://pin.it/1N1eypzWi)
+![gif](https://tenor.com/id/view/bocchi-bocchi-the-rock-panic-surprised-kita-gif-26979862)
 
 
 I'm passionate about **technology**, **data**, and **continuous learning**.  
