@@ -1,6 +1,8 @@
 ## 👋 Hello, I'm Leo Wahatta!
 
 ![gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOWJ4empmYnQ1Ym0weDgxcjBibXhhanhxNzMwd2szZm5hOGk4aXBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b1qGICT4kHVOo8OX9o/giphy.gif)
+
+
 I'm passionate about **technology**, **data**, and **continuous learning**.  
 Currently, I'm exploring the exciting world of **Frontend Development** and diving into **Python programming**.
 
