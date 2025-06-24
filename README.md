@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I am Leo👋
 
+![Animasi Bochi](https://tenor.com/bZvNT.gif)
 <!--
 **leowahata/leowahata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
