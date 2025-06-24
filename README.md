@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Leo Wahatta!
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2FqamJtaXJwcGtoem9sMHcwaXcxbHJrN2Y0cTlmOHgzaThkdmVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM3l14swAnId8GVBrb/giphy.gif)
-
+![gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd3U0YTYxc2pyaWdjb3l3djFsMWR6NDZpcWcwNjJ5YndsZmJpYTd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/To1m6F9M8fLcEhul6H/giphy.gif) 
 
 I'm passionate about **technology**, **data**, and **continuous learning**.  
 Currently, I'm exploring the exciting world of **Frontend Development** and diving into **Python programming**.
