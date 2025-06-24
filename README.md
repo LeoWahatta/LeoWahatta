@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Leo Wahatta!
 
-![gif](https://tenor.com/id/view/bocchi-the-rock-gotou-hitori-scared-gif-27211952)
+![gif](https://pin.it/1N1eypzWi)
 
 
 I'm passionate about **technology**, **data**, and **continuous learning**.  
