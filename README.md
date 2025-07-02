@@ -62,7 +62,7 @@ Actively working on **personal projects**, exploring tech, and sharpening my **s
 
 ## 📫 Let’s Connect
 <p align="center">
-<a href="https://linkedin.com/in/leowahatta">
+<a href="https://linkedin.com/in/leowahata">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
